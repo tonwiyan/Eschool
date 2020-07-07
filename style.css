@@ -1,0 +1,78 @@
+.logo-icon {
+    width: 150px;
+}
+
+/* .btn-success {
+    border-radius: 1em;
+    background-color: #0caf5d;
+} */
+
+.header-bg {
+    background-color: #e6ffe6;
+}
+
+/* .bg-green {
+    color: #21a563;
+} */
+
+.pd-5 {
+    padding: 1em 5em 1em 5em;
+}
+
+.btn-head {
+    padding: 0px 10px;
+    background-color: rgba(83, 184, 83, 0.794);
+    border-radius: 1em;
+    color: white;
+    border: none;
+    margin-top: 1em;
+}
+
+.container {
+    margin-bottom: 100px;
+}
+
+.token-img {
+    height: 100px;
+}
+
+.token {
+    background-color: rgb(212, 230, 212);
+    text-align: center;
+    border-radius: 5px;
+    padding: 1em 2em;
+}
+
+.students-bg {
+    background-color: whitesmoke;
+    text-align: center;
+    border-radius: 5px;
+    padding: 1em 2em;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.icon {
+    height: 30px;
+    width: 30px;
+}
+
+p {
+    margin-bottom: 0px;
+}
+
+.card {
+    border: 0.5em solid rgb(245, 242, 242);
+    border-radius: 5px;
+}
+
+.center {
+    text-align: center;
+}
+
+.people-img {
+    width: 100px;
+    margin: 0em 3em 0em 20em;
+}
+
+.textimonial {}
